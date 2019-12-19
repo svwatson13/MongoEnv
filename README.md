@@ -1,5 +1,5 @@
 # Practise spinning up a server which has MongoDB installed and IP binding of 0.0.0.0
-## How to sping the server:
+## How to spin the server:
 ### Start Up
 - Download Vagrant and Virtual Box 6.0
 - Clone this git repo into an appropriate folder by navigating into a folder on your terminal and then writing:
